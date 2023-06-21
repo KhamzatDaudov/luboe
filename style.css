@@ -1,0 +1,19 @@
+body{
+    font-size: 1rem;
+}
+.test{
+  width: 500px;
+   height:  500px;
+    background-color: lightblue;
+    overflow:hidden;
+    border-width: 20px;
+    border-color:  rgb(192, 45, 50);
+    border-style: groove;
+    border-radius: 35px/50px;
+   cursor: pointer;
+}
+.test:hover{
+    border-color: blue;
+    background-color:rebeccapurple;
+    border-style: dotted;
+}
